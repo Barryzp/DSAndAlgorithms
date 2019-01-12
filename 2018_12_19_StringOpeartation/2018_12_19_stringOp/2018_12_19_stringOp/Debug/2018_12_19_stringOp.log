@@ -1,0 +1,4 @@
+﻿  Main.cpp
+d:\workspace_main\dsandalgorithm\2018_12_19_stringopeartation\2018_12_19_stringop\2018_12_19_stringop\main.cpp(14): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+d:\workspace_main\dsandalgorithm\2018_12_19_stringopeartation\2018_12_19_stringop\2018_12_19_stringop\main.cpp(33): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'char *'
+  2018_12_19_stringOp.vcxproj -> D:\WorkSpace_Main\DSAndAlgorithm\2018_12_19_StringOpeartation\2018_12_19_stringOp\Debug\2018_12_19_stringOp.exe
