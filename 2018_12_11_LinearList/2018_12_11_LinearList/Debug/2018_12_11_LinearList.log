@@ -1,0 +1,6 @@
+﻿  2018_12_11_LinearList.cpp
+d:\workspace_main\dsandalgorithm\2018_12_11_linearlist\2018_12_11_linearlist\2018_12_11_linearlist.cpp(9): error C2065: 'RankedStrorageList': undeclared identifier
+d:\workspace_main\dsandalgorithm\2018_12_11_linearlist\2018_12_11_linearlist\2018_12_11_linearlist.cpp(9): error C2146: syntax error: missing ';' before identifier 'rs'
+d:\workspace_main\dsandalgorithm\2018_12_11_linearlist\2018_12_11_linearlist\2018_12_11_linearlist.cpp(9): error C2065: 'rs': undeclared identifier
+  RankedStrorageList.cpp
+  Generating Code...
